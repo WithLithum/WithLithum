@@ -23,6 +23,10 @@ I'm WithLithum, a computer programming hobbyist. Most of the times, I develops G
 - GTA
 - SHVDN/RPH
 
+#### 🗃️ Misc
+* Vampire are not real.
+* **Story is purely fictional. Any resemblance of one or more real living or dead person, place, business or event in this story purely incidental.**
+
 #### 🗒️ Statistics
 
 [![WithLithum's GitHub stats](https://github-readme-stats.vercel.app/api?username=WithLithum&show_icons=true&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
