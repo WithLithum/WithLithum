@@ -14,6 +14,7 @@ I'm WithLithum, a computer programming hobbyist. Most of the times, I develops G
 
 - Windows UI Library (especially v3)
 - .NET
+- Minecraft (Java Edition)
 - GTA
 - SHVDN/RPH
 
