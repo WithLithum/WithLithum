@@ -8,18 +8,15 @@ I'm WithLithum, a computer programming hobbyist. Most of the times, I develops G
 - 😄 **Pronouns**: He/him
 - 🙂 **Favorite language**: C#
 - 🚛 **Speaks**: Mandarin (native) and English
-- ⚡ **Fun fact**: You can call me Lithium if you want, but don't be confused with other things called Lithium!
 
 #### 🔭 What I am interested in
 
-- Windows UI Library (especially v3)
 - .NET
 - Minecraft (Java Edition)
-- GTA
-- SHVDN/RPH
+- GTA series modding
 
 #### 🗨️ Social
-* **Discord**: WithLithum#8652
+* **Discord**: withlithum
 
 <!--
 **WithLithum/WithLithum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
